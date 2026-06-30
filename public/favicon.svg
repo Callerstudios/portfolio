@@ -1,0 +1,65 @@
+<svg
+  width="256"
+  height="256"
+  viewBox="0 0 256 256"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <!-- Background -->
+  <rect width="256" height="256" rx="32" fill="#0F172A"/>
+
+  <!-- Shared vertical stem -->
+  <line
+    x1="76"
+    y1="48"
+    x2="76"
+    y2="208"
+    stroke="#3B82F6"
+    stroke-width="14"
+    stroke-linecap="round"
+  />
+
+  <!-- B -->
+  <path
+    d="
+      M76 48
+      H128
+      C154 48 168 62 168 84
+      C168 102 156 114 138 116
+      C160 118 176 132 176 154
+      C176 184 154 208 120 208
+      H76
+    "
+    fill="none"
+    stroke="#3B82F6"
+    stroke-width="14"
+    stroke-linejoin="round"
+    stroke-linecap="round"
+  />
+
+  <!-- R bowl -->
+  <path
+    d="
+      M76 48
+      H164
+      C188 48 204 66 204 92
+      C204 118 188 136 160 136
+      H76
+    "
+    fill="none"
+    stroke="#FFFFFF"
+    stroke-width="14"
+    stroke-linejoin="round"
+    stroke-linecap="round"
+  />
+
+  <!-- R leg -->
+  <line
+    x1="152"
+    y1="136"
+    x2="208"
+    y2="208"
+    stroke="#FFFFFF"
+    stroke-width="14"
+    stroke-linecap="round"
+  />
+</svg>
