@@ -31,7 +31,7 @@ function Footer() {
           </a>
 
           <a
-            href="https://linkedin.com/in/YOUR-LINKEDIN"
+            href="https://linkedin.com/in/busariroqeeb"
             target="_blank"
             rel="noopener noreferrer"
             className="text-slate-400 transition-colors duration-200 hover:text-blue-400"
